@@ -1,0 +1,19 @@
+{
+    "header" : 
+    {
+        "platform" : "nutekt-digital",
+        "module" : "osc",
+        "api" : "1.1-0",
+        "dev_id" : 0,
+        "prg_id" : 0,
+        "version" : "0.1-0",
+        "name" : "shotgun",
+        "num_param" : 4,
+        "params" : [
+            ["osc", 0, 2, ""],
+            ["oct", -3, 3, "%"],
+            ["seed", 0, 99, ""],
+            ["blts", 0, 31, ""]
+        ]
+    }
+}
